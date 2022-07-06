@@ -37,6 +37,7 @@ Decidere quali funzionalit&agrave; rendere accessibili tramite applicazione MVC 
 Il database da utilizzare deve essere SQL Azure.
 
 ---
+**EXTRA**
 Il tutto sar&agrave; deployato su Azure VM. 
 
-La gestione del progetto dovr&agrave; essere realizzata in Azure DevOps, e verra&agrave; valutata l'applicazione dell'Agile Manifesto in tute le sue parti, per questo motivo bisogner&agrave; inserire il docnte come amministratore di progetto (in modo che possa avere accesso al progetto nella sua interezza, una volta consegnato).
+La gestione del progetto dovr&agrave; essere realizzata in Azure DevOps, e verr&agrave; valutata l'applicazione dell'Agile Manifesto in tute le sue parti, per questo motivo bisogner&agrave; inserire il docnte come amministratore di progetto (in modo che possa avere accesso al progetto nella sua interezza, una volta consegnato).
